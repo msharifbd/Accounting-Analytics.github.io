@@ -1,6 +1,11 @@
 ---
 title: "ACCT561"
 subtitle: "Analytics for Accounting Data" 
+toc: false
+image: images/images4.png
+about: 
+  template: jolla
+  image-shape: rectangle
 ---
 
 This is the website for course Analytics for Accounting Data (ACCT561).

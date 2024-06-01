@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Analytics for Accounting Data"
-  reader-mode: true
+  reader-mode: false
   page-footer: "Copyright 2024@Sharif Islam"
   navbar:
     left:
