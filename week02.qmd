@@ -1,0 +1,14 @@
+---
+title: "Week # 02"
+subtitle: "Building Your Own Database"
+---
+
+
+### What is Database?
+
+
+### REA Diagram for Database
+
+
+
+### PostgreSQL for a Database
