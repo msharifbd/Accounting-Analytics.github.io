@@ -6,7 +6,7 @@ logo: images/siuc1.jpeg
 about: 
   template: marquee
   image-shape: rectangle
-    links: 
+  links: 
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/sharif-islam-09345730/
