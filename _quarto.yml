@@ -26,15 +26,6 @@ website:
         text: Readings
       - href: recent-developments.qmd
         text: News
-  sidebar: 
-    style: docked
-    search: true
-    alignment: left
-    contents: 
-      - section: "Week 01"
-        contents: week01.qmd
-      - section: "Week 02"
-        contents: week02.qmd 
     
 format:
   html:
