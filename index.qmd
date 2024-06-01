@@ -2,6 +2,7 @@
 title: "<center>ACCT561 <br> Analytics for Accounting Data"
 toc: false
 image: images/images1.jpeg
+logo: images/siuc1.jpeg
 about: 
   template: marquee
   image-shape: rectangle

@@ -12,8 +12,18 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - syllabus.qmd
+      - href: about.qmd
+        text: About
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: books.qmd
+        text: Books
+      - href: projects.qmd
+        text: Projects
+      - href: readings.qmd
+        text: Readings
+      - href: recent-devopments.qmd
+        text: News
 
 format:
   html:
