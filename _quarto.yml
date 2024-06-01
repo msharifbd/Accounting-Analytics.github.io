@@ -27,7 +27,7 @@ website:
 
 format:
   html:
-    theme: united
+    theme: superhero
     toc: true
     mainfont: serif
     embed-resources: true
