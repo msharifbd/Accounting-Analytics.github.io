@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Analytics for Accounting Data (ACCT561) focuses on how managers and auditors can use information technology to (a) identify trends in business process performance, and (b) evaluate the veracity of financial information by analyzing patterns that manifest in accounting data. The course is restricted to enrollment in the MAcc. or M.B.A program or with instructor approval.

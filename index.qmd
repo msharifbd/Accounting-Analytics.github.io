@@ -3,10 +3,4 @@ title: "ACCT561"
 subtitle: "Analytics for Accounting Data" 
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This is the website for course Analytics for Accounting Data (ACCT561).
