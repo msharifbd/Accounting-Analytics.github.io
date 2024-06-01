@@ -4,13 +4,34 @@
     "href": "index.html",
     "title": "ACCT561",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is the website for course Analytics for Accounting Data (ACCT561)."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Analytics for Accounting Data (ACCT561) focuses on how managers and auditors can use information technology to (a) identify trends in business process performance, and (b) evaluate the veracity of financial information by analyzing patterns that manifest in accounting data. The course is restricted to enrollment in the MAcc. or M.B.A program or with instructor approval."
+  },
+  {
+    "objectID": "syllabus.html#books",
+    "href": "syllabus.html#books",
+    "title": "Syllabus",
+    "section": "Books",
+    "text": "Books"
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "Syllabus",
+    "section": "Grading",
+    "text": "Grading"
+  },
+  {
+    "objectID": "syllabus.html#classroom-etiquette",
+    "href": "syllabus.html#classroom-etiquette",
+    "title": "Syllabus",
+    "section": "Classroom Etiquette",
+    "text": "Classroom Etiquette"
   }
 ]
