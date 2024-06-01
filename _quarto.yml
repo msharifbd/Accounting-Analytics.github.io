@@ -10,12 +10,14 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - syllabus.qmd
 
 format:
   html:
-    theme: solar
+    theme: cyborg
     css: styles.css
     toc: true
+    mainfont: serif
 
 
 
