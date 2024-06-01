@@ -4,9 +4,12 @@ project:
 website:
   title: "Analytics for Accounting Data"
   reader-mode: false
-  page-footer: "Copyright 2024@Sharif Islam"
+  page-footer: 
+    background: dark
+    center: 
+      - "Copyright@2024, Sharif Islam"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
