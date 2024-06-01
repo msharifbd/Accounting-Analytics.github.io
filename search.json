@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "week01.html",
-    "href": "week01.html",
-    "title": "Week # 01",
-    "section": "",
-    "text": "What is Analytics?\n\n\nWhat is Accounting Analytics?"
-  },
-  {
     "objectID": "books.html",
     "href": "books.html",
     "title": "Books",
@@ -40,12 +33,5 @@
     "title": "Syllabus",
     "section": "Classroom Etiquette",
     "text": "Classroom Etiquette"
-  },
-  {
-    "objectID": "week02.html",
-    "href": "week02.html",
-    "title": "Week # 02",
-    "section": "",
-    "text": "What is Database?\n\n\nREA Diagram for Database\n\n\nPostgreSQL for a Database"
   }
 ]
