@@ -5,6 +5,9 @@ website:
   title: "Analytics for Accounting Data"
   reader-mode: false
   page-navigation: true
+  back-to-top-navigation: true
+  repo-url: https://github.com/msharifbd/Accounting-Analytics.github.io
+  repo-actions: [edit, issue]
   page-footer: 
     background: dark
     center: 
