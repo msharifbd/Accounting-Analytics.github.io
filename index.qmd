@@ -1,5 +1,6 @@
 ---
-title: "Accounting-Analytics.github.io"
+title: "ACCT561"
+subtitle: "Analytics for Accounting Data" 
 ---
 
 This is a Quarto website.
