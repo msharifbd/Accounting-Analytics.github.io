@@ -22,7 +22,7 @@ website:
         text: Projects
       - href: readings.qmd
         text: Readings
-      - href: recent-devopments.qmd
+      - href: recent-developments.qmd
         text: News
 
 format:
