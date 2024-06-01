@@ -2,6 +2,7 @@
 title: "<center>ACCT561 <br> Analytics for Accounting Data"
 toc: false
 image: images/images1.jpeg
+fontsize: '14'
 about: 
   template: marquee
   image-shape: rectangle
