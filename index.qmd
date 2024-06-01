@@ -1,11 +1,9 @@
 ---
-title: "<center>ACCT561"
-subtitle: "<center>Analytics for Accounting Data" 
+title: "<center>ACCT561 <br> Analytics for Accounting Data"
 toc: false
-image: images/images3.jpeg
+image: images/images1.jpeg
 about: 
   template: marquee
   image-shape: rectangle
 ---
 
-This is the website for course Analytics for Accounting Data (ACCT561).
