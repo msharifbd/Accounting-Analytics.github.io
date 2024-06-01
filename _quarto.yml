@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: cyborg
+    theme: united
     css: styles.css
     toc: true
     mainfont: serif

@@ -1,6 +1,6 @@
 ---
-title: "ACCT561"
-subtitle: "Analytics for Accounting Data" 
+title: "<center>ACCT561"
+subtitle: "<center>Analytics for Accounting Data" 
 toc: false
 image: images/images3.jpeg
 about: 
