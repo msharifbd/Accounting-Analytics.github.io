@@ -32,7 +32,9 @@ website:
     
 format:
   html:
-    theme: superhero
+    theme: vapor
+    light: cosmo 
+    dark: [cosmo, theme-dark.scss]
     toc: true
     mainfont: serif
     embed-resources: true
