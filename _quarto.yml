@@ -7,13 +7,16 @@ website:
   page-navigation: true
   back-to-top-navigation: true
   repo-url: https://github.com/msharifbd/Accounting-Analytics.github.io
-  repo-actions: [edit, issue]
-  page-footer: 
-    background: dark
+  #repo-actions: [edit, issue]
+  page-footer:
+    right: |
+      ![](images/siuc2.png){width=100}
+    background: maroon
     center: 
-      - "Copyright@2024, Sharif Islam"
+      - "The world's most valuable resource is no longer oil, but data (The Economist, 2017) <br> Copyright@2024, Sharif Islam, DBA, CPA, CMA"
   navbar:
-    logo: images/siuc1.jpeg
+    background: maroon 
+    logo: images/siuc2.png
     right:
       - href: index.qmd
         text: Home
@@ -23,20 +26,33 @@ website:
         text: Syllabus
       - href: books.qmd
         text: Books
+      - href: moduels.qmd
+        text: Modules
       - href: projects.qmd
         text: Projects
       - href: readings.qmd
         text: Readings
       - href: recent-developments.qmd
         text: News
+   
+  sidebar:
+    - title: "Modules"
+      style: docked
+      background: dark
+      contents: 
+        - moduels.qmd
+        - basics.qmd
+        - working_with_data.qmd
+        - data_visualization.qmd 
     
 format:
   html:
-    theme: vapor
+    theme: default
     light: cosmo 
     dark: [cosmo, theme-dark.scss]
     toc: true
     mainfont: serif
+    fontcolor: white
     embed-resources: true
 css: styles.css
 

@@ -1,11 +1,12 @@
 ---
 title: "<center>ACCT561 <br> Analytics for Accounting Data"
+title-block-style: plain
 toc: false
 image: images/images7.jpg
 fontsize: '14'
 about: 
   template: marquee
-  image-shape: rectangle
+  image-shape: round
   links: 
     - icon: linkedin
       text: Linkedin

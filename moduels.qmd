@@ -1,0 +1,24 @@
+---
+title: "Modules"
+---
+
+The following Modules are suggested for the classroom - 
+
+
+01. Basics of `R`, `Python`, `Tableau`, and `Power BI`
+
+
+02. Working with Data 
+
+
+03. Data Visualization
+
+04. Working with Databases 
+
+
+05. Regression 
+
+06. Machine Learning 
+
+07. Textual Analysis 
+

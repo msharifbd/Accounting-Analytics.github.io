@@ -1,0 +1,16 @@
+---
+title: "02. Working with Data"
+---
+
+The following tools are suggested for the classroom - 
+
+01. R
+
+
+02. Python 
+
+
+03. Tableau 
+
+04. Power BI
+

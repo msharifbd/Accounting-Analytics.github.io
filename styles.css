@@ -1,7 +1,7 @@
 /* css styles */
 
 .quarto-title-block .quarto-title-banner {
-  background-image: url(images/siuc1.jpeg);
+  background-image: url(images/siuc2.png);
   background-size: 300px;
   background-position: left;
   background-repeat: no-repeat;
@@ -9,3 +9,12 @@
   background-origin: content-box;
 }
 
+/*-- scss:defaults --*/
+
+body {
+  background-image: url(images/images9.avif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /*background-position: center center;*/
+  /*background-attachment: fixed;*/
+}

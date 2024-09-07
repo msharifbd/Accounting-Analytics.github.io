@@ -61,5 +61,55 @@
     "title": "News",
     "section": "",
     "text": "Back to top"
+  },
+  {
+    "objectID": "syllabus.html#modules",
+    "href": "syllabus.html#modules",
+    "title": "Syllabus",
+    "section": "Modules",
+    "text": "Modules\n\n01. Basics of R, Python, Tableau, and Power BI\n\n\n02. Working with Data\n\n\n03. Data Visualization\n\n\n04. Working with Databases\n\n\n05. Regression\n\n\n06. Machine Learning\n\n\n07. Textual Analysis"
+  },
+  {
+    "objectID": "moduels.html",
+    "href": "moduels.html",
+    "title": "Modules",
+    "section": "",
+    "text": "The following Modules are suggested for the classroom -\n\nBasics of R, Python, Tableau, and Power BI\nWorking with Data\nData Visualization\nWorking with Databases\nRegression\nMachine Learning\nTextual Analysis\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Modules"
+    ]
+  },
+  {
+    "objectID": "basics.html",
+    "href": "basics.html",
+    "title": "01. Basics of Data Analytics Tools",
+    "section": "",
+    "text": "The following tools are suggested for the classroom -\n\nR\nPython\nTableau\nPower BI\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Modules",
+      "01. Basics of Data Analytics Tools"
+    ]
+  },
+  {
+    "objectID": "working_with_data.html",
+    "href": "working_with_data.html",
+    "title": "02. Working with Data",
+    "section": "",
+    "text": "The following tools are suggested for the classroom -\n\nR\nPython\nTableau\nPower BI\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Modules",
+      "02. Working with Data"
+    ]
+  },
+  {
+    "objectID": "data_visualization.html",
+    "href": "data_visualization.html",
+    "title": "03. Data Visualization",
+    "section": "",
+    "text": "The following books are suggested for the classroom -\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Modules",
+      "03. Data Visualization"
+    ]
   }
 ]
