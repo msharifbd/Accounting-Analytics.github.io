@@ -1,8 +1,15 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nACCT561  Analytics for Accounting Data",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Analytics for Accounting Data (ACCT561) focuses on how managers and auditors can use information technology to (a) identify trends in business process performance, and (b) evaluate the veracity of financial information by analyzing patterns that manifest in accounting data. The course is restricted to enrollment in the MAcc. or M.B.A program or with instructor approval.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
     "text": "Back to top"
   },
@@ -28,25 +35,40 @@
     "text": "Classroom Etiquette"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "syllabus.html#modules",
+    "href": "syllabus.html#modules",
+    "title": "Syllabus",
+    "section": "Modules",
+    "text": "Modules\n\n01. Basics of R, Python, Tableau, and Power BI\n\n\n02. Working with Data\n\n\n03. Data Visualization\n\n\n04. Working with Databases\n\n\n05. Regression\n\n\n06. Machine Learning\n\n\n07. Textual Analysis"
+  },
+  {
+    "objectID": "data_visualization.html",
+    "href": "data_visualization.html",
+    "title": "03. Data Visualization",
+    "section": "",
+    "text": "The following books are suggested for the classroom -\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Modules",
+      "03. Data Visualization"
+    ]
+  },
+  {
+    "objectID": "readings.html",
+    "href": "readings.html",
+    "title": "Readings",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "basics.html",
+    "href": "basics.html",
+    "title": "01. Basics of Data Analytics Tools",
     "section": "",
-    "text": "Analytics for Accounting Data (ACCT561) focuses on how managers and auditors can use information technology to (a) identify trends in business process performance, and (b) evaluate the veracity of financial information by analyzing patterns that manifest in accounting data. The course is restricted to enrollment in the MAcc. or M.B.A program or with instructor approval.\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "books.html",
-    "href": "books.html",
-    "title": "Books",
-    "section": "",
-    "text": "The following books are suggested for the classroom -\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "The following tools are suggested for the classroom -\n\nR\nPython\nTableau\nPower BI\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Modules",
+      "01. Basics of Data Analytics Tools"
+    ]
   },
   {
     "objectID": "recent-developments.html",
@@ -56,10 +78,38 @@
     "text": "Back to top"
   },
   {
-    "objectID": "readings.html",
-    "href": "readings.html",
-    "title": "Readings",
+    "objectID": "moduels.html",
+    "href": "moduels.html",
+    "title": "Modules",
+    "section": "",
+    "text": "The following Modules are suggested for the classroom -\n\nBasics of R, Python, Tableau, and Power BI\nWorking with Data\nData Visualization\nWorking with Databases\nRegression\nMachine Learning\nTextual Analysis\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Modules"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nACCT561  Analytics for Accounting Data",
     "section": "",
     "text": "Back to top"
+  },
+  {
+    "objectID": "books.html",
+    "href": "books.html",
+    "title": "Books",
+    "section": "",
+    "text": "The following books are suggested for the classroom -\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "working_with_data.html",
+    "href": "working_with_data.html",
+    "title": "02. Working with Data",
+    "section": "",
+    "text": "The following tools are suggested for the classroom -\n\nR\nPython\nTableau\nPower BI\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Modules",
+      "02. Working with Data"
+    ]
   }
 ]
