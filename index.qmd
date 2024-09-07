@@ -1,5 +1,5 @@
 ---
-title: "<center>ACCT561 <br> Analytics for Accounting Data"
+title: "<center> <br> Analytics for Accounting Data"
 title-block-style: plain
 toc: false
 image: images/images7.jpg
