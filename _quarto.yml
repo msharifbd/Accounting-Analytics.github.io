@@ -11,11 +11,11 @@ website:
   page-footer:
     right: |
       ![](images/siuc2.png){width=100}
-    background: maroon
+    background: black
     center: 
       - "The world's most valuable resource is no longer oil, but data (The Economist, 2017) <br> Copyright@2024, Sharif Islam, DBA, CPA, CMA"
   navbar:
-    background: maroon 
+    background: black 
     logo: images/siuc2.png
     right:
       - href: index.qmd
