@@ -1,5 +1,5 @@
 ---
-title: "<center> <br> Analytics for Accounting Data"
+title: "<center> <br> Analytics for Accounting Data <br> MAcc Program <br> School of Accountancy <br> Southern Illinois University Carbondale"
 title-block-style: plain
 toc: false
 image: images/images7.jpg
