@@ -9,12 +9,3 @@
   background-origin: content-box;
 }
 
-/*-- scss:defaults --*/
-
-body {
-  background-image: url(images/images13.jpeg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  /*background-position: center center;*/
-  /*background-attachment: fixed;*/
-}
