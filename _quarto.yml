@@ -52,7 +52,7 @@ format:
     dark: [cosmo, theme-dark.scss]
     toc: true
     mainfont: serif
-    fontcolor: black
+    fontcolor: white
     embed-resources: true
 css: styles.css
 
