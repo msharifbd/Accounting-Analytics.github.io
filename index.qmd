@@ -3,7 +3,7 @@ title: "<center>Analytics for Accounting Data <br> MAcc Program <br> School of A
 title-block-style: plain
 toc: false
 image: images/images7.jpg
-fontsize: '14'
+fontsize: '08'
 about: 
   template: marquee
   image-shape: round
